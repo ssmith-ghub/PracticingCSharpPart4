@@ -1,0 +1,14 @@
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\obj\Debug\net8.0\PracticingC#Part4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\obj\Debug\net8.0\PracticingC#Part4.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\obj\Debug\net8.0\PracticingC#Part4.AssemblyInfo.cs
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\obj\Debug\net8.0\PracticingC#Part4.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\bin\Debug\net8.0\PracticingC#Part4.exe
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\bin\Debug\net8.0\PracticingC#Part4.deps.json
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\bin\Debug\net8.0\PracticingC#Part4.runtimeconfig.json
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\bin\Debug\net8.0\PracticingC#Part4.dll
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\bin\Debug\net8.0\PracticingC#Part4.pdb
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\obj\Debug\net8.0\PracticingC#Part4.dll
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\obj\Debug\net8.0\refint\PracticingC#Part4.dll
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\obj\Debug\net8.0\PracticingC#Part4.pdb
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\obj\Debug\net8.0\PracticingC#Part4.genruntimeconfig.cache
+C:\Users\steph\source\repos\PracticingC#Part4\PracticingC#Part4\obj\Debug\net8.0\ref\PracticingC#Part4.dll
